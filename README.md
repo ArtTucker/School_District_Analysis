@@ -27,7 +27,9 @@ What can we tell from these tables?
 In reviewing the top-five/bottom-five data, based on overall percent of students with passing test scores, a cursory review could suggest that Charter schools perform better than the District schools, or that student success is inversely correlated to the size of the total student population (smaller schools seem to have better test scores).
 ![Per School top five](resources/per_school_top_five_module.png)
 ![Per School bottom five](resources/per_school_bottom_five_module.png)
-In looking at how spending per-student relates to average test scores, or percent of students with passing grades, one could also jump to the conclusion that increased funding has poor effects on 
-
+In looking at how spending per-student relates to average test scores, or percent of students with passing grades, one could also jump to the conclusion that increased funding has a negative effects on performance. However this relation probably has more to do with school population size (spending per-student).
+[School size and grade summary](resources/size_summary_scores_module.png)
+If we look again at the comparison between school size and performance we see this conclusion reinforced. In face, we can see a precipitous drop-off in student performance in high schools that have more than 2000 students.
+Lastly, if we review the 
 
 ## Summary
