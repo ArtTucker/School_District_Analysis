@@ -7,12 +7,13 @@ The main purpose of this project was to review the performance of high schools i
 The initial analysis consisted of a per-school overview of student population, budget, per-student budget, average math & reading scores, and percentage of students with passing grades.
 ![Per School Overview](resources/per_school_summary_module.png)
 
-This was also accompanied by a rating of...
+This was also accompanied by a rating of...\n
 ... the top-five...
 ![Per School top five](resources/per_school_top_five_module.png)
 ... and bottom-five performing schools...
 ![Per School bottom five](resources/per_school_bottom_five_module.png)
  ... determined by the overall passing percentage of students at these schools.
+
 
 ![Per Grade Math Averages](resources/per_grade_math_module.png)
 ![Per Grade Reading Averages](resources/per_grade_reading_module.png)
