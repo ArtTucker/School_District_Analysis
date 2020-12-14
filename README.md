@@ -20,7 +20,7 @@ Following this were analyses of how/if school size...
 ![School type and performance summary](resources/school_type_summary_module.png)
 ... reflected on test scores.
 
-The challenge consisted of the introduction (or rather removal of some information). The scenario presented was that evidence of academic dishonesty necessitated the voiding of test scores for all 9th grade students at Thomas High School. This necessitated the recalculation of student population totals and average test scores. Beyond that, the operations were largely the same.
+The challenge consisted of the introduction (or rather removal of some information). The scenario presented was that evidence of academic dishonesty necessitated the voiding of test scores for all 9th grade students at Thomas High School. This necessitated the recalculation of student population totals and average test scores. Beyond that, the operations were largely the same, and in the end the calculated metrics didn't drastically change.
 
 ## Results
 
