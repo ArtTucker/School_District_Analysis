@@ -8,10 +8,11 @@ The initial analysis consisted of a per-school overview of student population, b
 ![Per School Overview](resources/per_school_summary_module.png)
 
 This was also accompanied by a rating of...
-![Per School top five](resources/per_school_top_five_module.png)
 ... the top-five...
+![Per School top five](resources/per_school_top_five_module.png)
+... and bottom-five performing schools...
 ![Per School bottom five](resources/per_school_bottom_five_module.png)
-... and bottom-five performing schools, determined by the overall passing percentage of students at these schools.
+ ... determined by the overall passing percentage of students at these schools.
 
 ![Per Grade Math Averages](resources/per_grade_math_module.png)
 ![Per Grade Reading Averages](resources/per_grade_reading_module.png)
