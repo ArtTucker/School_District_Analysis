@@ -30,6 +30,7 @@ In reviewing the top-five/bottom-five data, based on overall percent of students
 In looking at how spending per-student relates to average test scores, or percent of students with passing grades, one could also jump to the conclusion that increased funding has a negative effects on performance. However this relation probably has more to do with school population size (spending per-student).
 [School size and grade summary](resources/size_summary_scores_module.png)
 If we look again at the comparison between school size and performance we see this conclusion reinforced. In face, we can see a precipitous drop-off in student performance in high schools that have more than 2000 students.
-Lastly, if we review the 
+Lastly, if we review the scores by school type, we see that even though the numbers for Charter schools were higher than for District schools, we can't eliminate the possibility that this was largely because the District schools tended to have larger student populations.
 
 ## Summary
+In conclusion I think it's safe to say that student performance is less directly affected by funding or the type of school the student is enrolled in. The dominant predictor, as demonstrated by this analysis, seems to show that school size, and the ability for students to receive more one-on-one time and attention from trained staff, if the leading factor in student success.
