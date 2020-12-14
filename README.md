@@ -10,13 +10,13 @@ The initial analysis consisted of a per-school overview of student population, b
 ![Per Grade Math Averages](resources/per_grade_math_module.png)![Per Grade Reading Averages](resources/per_grade_reading_module.png)
 The next level of analysis looked at average Math & Reading scores at each high school, by grade level.
 
-[Per Student spending and grades](resources/per_student_spending_bins_grades.png)
+![Per Student spending and grades](resources/per_student_spending_bins_grades.png)
 This was followed by an examination of how budgetary spending per-student related to average test scores.
 
 Following this were analyses of how/if school size...
-[School size and grade summary](resources/size_summary_scores_module.png)
+![School size and grade summary](resources/size_summary_scores_module.png)
 ... or type...
-[School type and performance summary](resources/school_type_summary_module.png)
+![School type and performance summary](resources/school_type_summary_module.png)
 ... reflected on test scores.
 
 The challenge consisted of the introduction (or rather removal of some information). The scenario presented was that evidence of academic dishonesty necessitated the voiding of test scores for all 9th grade students at Thomas High School. This necessitated the recalculation of student population totals and average test scores. Beyond that, the operations were largely the same.
