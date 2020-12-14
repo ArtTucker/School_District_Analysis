@@ -14,12 +14,18 @@ This was also accompanied by a rating of...
 ... and bottom-five performing schools, determined by the overall passing percentage of students at these schools.
 
 ![Per Grade Math Averages](resources/per_grade_math_module.png)![Per Grade Reading Averages](resources/per_grade_reading_module.png)
-
 The next level of analysis looked at average Math & Reading scores at each high school, by grade level.
 
+[Per Student spending and grades](resources/per_student_spending_bins_grades.png)
+This was followed by an examination of how budgetary spending per-student related to average test scores.
 
+Following this were analyses of how/if school size...
+[School size and grade summary](resources/size_summary_scores_module.png)
+... or type...
+[School type and performance summary](resources/school_type_summary_module.png)
+... reflected on test scores.
 
-
+The challenge 
 
 ## Results
 
