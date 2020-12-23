@@ -6,3 +6,5 @@ pandas_practice.ipynb
 # Jupyter Notebook
 .ipynb_checkpoints
 PyBer_ride_data.ipynb
+cleaning_data.ipynb
+cleaning_student_names.ipynb
